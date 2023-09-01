@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finance-help/static/css/main.b9767006.css",
+    "main.js": "/finance-help/static/js/main.2931a5ac.js",
+    "static/media/hero.jpg": "/finance-help/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/john-doe.png": "/finance-help/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/logo.png": "/finance-help/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/finance-help/index.html",
+    "main.b9767006.css.map": "/finance-help/static/css/main.b9767006.css.map",
+    "main.2931a5ac.js.map": "/finance-help/static/js/main.2931a5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9767006.css",
+    "static/js/main.2931a5ac.js"
+  ]
+}
